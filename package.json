@@ -1,0 +1,22 @@
+{
+  "name": "auto-smart-website",
+  "version": "1.0.0",
+  "description": "The landing page for Auto Smart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auto-Smart-Mobile/Auto-Smart-Website.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Ethan Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Auto-Smart-Mobile/Auto-Smart-Website/issues"
+  },
+  "homepage": "https://github.com/Auto-Smart-Mobile/Auto-Smart-Website#readme"
+}
